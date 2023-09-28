@@ -1,9 +1,10 @@
 # Zebra-Printer_Print-Code-with-Python
+
 Pythonを用いて印刷をするソースコード
 
-# Network Printing Python Example
-# Article ID:000013719  •  April 12, 2018
-# https://supportcommunity.zebra.com/s/article/Network-Printing-Python-Example?language=en_US
+Network Printing Python Example
+Article ID:000013719  •  April 12, 2018
+https://supportcommunity.zebra.com/s/article/Network-Printing-Python-Example?language=en_US
 
 
 import socket   
